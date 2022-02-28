@@ -1,5 +1,7 @@
 # Vite-React-Tailwindcss Stater
 
+<img src="./src/image/shot.png" alt="image">
+
 I know some of you faced issues while using [React](https://reactjs.org/) and [Tailwind CSS](https://tailwindcss.com/) together. That's why I trying to find out a good solution for react-tailwind projects. and I made it with [Vite](https://vitejs.dev/).
 
 just simply clone it and use it
